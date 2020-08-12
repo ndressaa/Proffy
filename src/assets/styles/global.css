@@ -40,9 +40,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* justify-content: safe;  */
-    /* ^ Este comando justifica os elementos na página de forma 
-    que não ultrapassem o limite da tela em dispositivos menores */
 }
 
 body, input, button, textarea {
